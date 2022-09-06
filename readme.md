@@ -4,19 +4,28 @@ This is prove of concept that Laravel has potential in creating apis.
 
 ## Users have the ability:
 
--View list of books
--Query list of books
--Register
+    -View list of books
+    
+    -Query list of books
+    
+    -Register
+    
 
 ## Registed users have ability to:
 
--Log in to the system
--Add books
--Update books
--Like books
--Delete books
--Write reviews
--Log Out
+    -Log in to the system
+    
+    -Add books
+    
+    -Update books
+    
+    -Like books
+    
+    -Delete books
+    
+    -Write reviews
+    
+    -Log Out
 
 
 ## Run the project
